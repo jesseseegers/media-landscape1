@@ -16,7 +16,7 @@
 title: Media_Landscape
 email: seegersj@newschool.edu
 description: "Description goes here."
-baseurl: "/media-landscape1/" # the subpath of your site, e.g. /blog
+baseurl: "/media-landscape1" # the subpath of your site, e.g. /blog
 url: "https://jesseseegers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jesseseegers
 github_username:  jesseseegers
